@@ -1,6 +1,8 @@
 # WMI exporter
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ljwan71as6pf2joe?svg=true)](https://ci.appveyor.com/project/martinlindhe/wmi-exporter)
+sadsadfs
+sdfadsfds
 
 Prometheus exporter for Windows machines, using the WMI (Windows Management Instrumentation).
 
